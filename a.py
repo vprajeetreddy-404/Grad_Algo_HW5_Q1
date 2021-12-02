@@ -1,5 +1,5 @@
 import random
-
+""" 0, if voted for A and 1, if voted for B """
 list = [0] * 5200000
 x = [1] * 4800000
 test = list + x
